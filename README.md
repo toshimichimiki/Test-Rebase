@@ -5,6 +5,6 @@ This repository is personal lesson for `git rebase`. There is fake text below. Y
 Master chief have gone to nowhere.
 
 ## Client side engagement
-Currently browsers are used as if _hardware_.
+Currently browsers are used as if hardware.
 
 ## Server side engagement
