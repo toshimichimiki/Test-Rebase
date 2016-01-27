@@ -6,3 +6,4 @@ There is fake text below. You should not care about all my text in this repo.
 Master chief have gone to nowhere.
 
 ## Client side engagement
+Currently browsers are used as if _hardware_.
