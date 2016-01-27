@@ -7,3 +7,5 @@ Master chief have gone to nowhere.
 
 ## Client side engagement
 Currently browsers are used as if _hardware_.
+
+## Server side engagement
